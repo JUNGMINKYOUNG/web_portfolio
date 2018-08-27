@@ -1,0 +1,23 @@
+.hi {
+  display:grid;
+  grid-template-columns: 1fr 6fr;
+}
+h1.title1{
+  color: black;
+  padding-top : 100px;
+  padding-bottom: 0px;
+  text-align: center;
+}
+h3.name{
+  border-right:3px solid gray;
+  padding-right: 20%;
+}
+ul.menu{
+  text-align:right;
+  padding-right: 10%;
+}
+.image {
+  width : 100%;
+  height: auto;
+  background-image: url('hand-1571851.jpg');
+}
